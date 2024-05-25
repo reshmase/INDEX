@@ -1,0 +1,9 @@
+
+h3{text-align:center;}
+ h1{text-align:center; color:black;text-shadow:2px 2px;}
+ body{background-color:lightgray;}	 
+ table,th,td{border:1px solid black;
+ border-collapse:collapse;}
+ th,td{padding:15px;}
+ th{background-color:yellow;color:black;}
+ tr{background-color:blue;color:white;}
